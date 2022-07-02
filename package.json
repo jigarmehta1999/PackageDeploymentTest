@@ -1,0 +1,19 @@
+{
+  "name": "packagedeploymenttest",
+  "version": "1.0.0",
+  "description": "sample test",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jigarmehta1999/PackageDeploymentTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jigarmehta1999/PackageDeploymentTest/issues"
+  },
+  "homepage": "https://github.com/jigarmehta1999/PackageDeploymentTest#readme"
+}
